@@ -1,0 +1,15 @@
+/home/mwalk/src/aoc2021/bin/Debug/net6.0/aoc2021
+/home/mwalk/src/aoc2021/bin/Debug/net6.0/aoc2021.deps.json
+/home/mwalk/src/aoc2021/bin/Debug/net6.0/aoc2021.runtimeconfig.json
+/home/mwalk/src/aoc2021/bin/Debug/net6.0/aoc2021.dll
+/home/mwalk/src/aoc2021/bin/Debug/net6.0/ref/aoc2021.dll
+/home/mwalk/src/aoc2021/bin/Debug/net6.0/aoc2021.pdb
+/home/mwalk/src/aoc2021/obj/Debug/net6.0/aoc2021.csproj.AssemblyReference.cache
+/home/mwalk/src/aoc2021/obj/Debug/net6.0/aoc2021.GeneratedMSBuildEditorConfig.editorconfig
+/home/mwalk/src/aoc2021/obj/Debug/net6.0/aoc2021.AssemblyInfoInputs.cache
+/home/mwalk/src/aoc2021/obj/Debug/net6.0/aoc2021.AssemblyInfo.cs
+/home/mwalk/src/aoc2021/obj/Debug/net6.0/aoc2021.csproj.CoreCompileInputs.cache
+/home/mwalk/src/aoc2021/obj/Debug/net6.0/aoc2021.dll
+/home/mwalk/src/aoc2021/obj/Debug/net6.0/ref/aoc2021.dll
+/home/mwalk/src/aoc2021/obj/Debug/net6.0/aoc2021.pdb
+/home/mwalk/src/aoc2021/obj/Debug/net6.0/aoc2021.genruntimeconfig.cache

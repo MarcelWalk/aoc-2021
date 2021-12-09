@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjPi99Zx1lCzQ67VVEwR8NkG3ol2QWViG5+Y7M/PofzZAkP1TKJNaME2vVuVK6QoLUNoWAAOmOYECgPOU8uGPQ==",
+  "success": true,
+  "projectFilePath": "/home/mwalk/src/aoc2021/aoc2021.csproj",
+  "expectedPackageFiles": [
+    "/home/mwalk/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
