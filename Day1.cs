@@ -13,6 +13,7 @@ namespace aoc2021
         {
             int increases = 0;
 
+
             for (int i = 0; i < input.Length; i++)
             {
                 if (i != 0 && int.Parse(input[i]) > int.Parse(input[i - 1]))

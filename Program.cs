@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            Day1 day1 = new Day1();
+            Console.WriteLine(Kata.DescendingOrder(123456789));
         }
     }
 }
